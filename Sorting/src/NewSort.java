@@ -24,7 +24,7 @@ public class BubbleSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] data = { 45, 76, 87, 78, -78, 55};
+		int[] data = { 56, 67, 83, -54, 89 };
 	    
 	    // call method using class name
 	    BubbleSort.bubbleSort(data);
